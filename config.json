@@ -1,0 +1,5 @@
+{
+  "llamafile_path": "D:\\llms\\llamafile.exe",
+  "models_dir": "D:\\llms",
+  "port": "8080"
+}
